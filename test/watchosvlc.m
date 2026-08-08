@@ -57,7 +57,7 @@
 - (void)didDeactivate {
     [super didDeactivate];
 }
-d
+
 @end
 
 @interface AppDelegate : NSObject <WKApplicationDelegate> {
